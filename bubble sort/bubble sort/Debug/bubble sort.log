@@ -1,0 +1,20 @@
+﻿Build started 11/06/2020 06:09:08.
+     1>Project "E:\My Programms\1st semester PF\bubble sort\bubble sort\bubble sort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Selection sort.cpp" Source.cpp Source1.cpp
+         Source1.cpp
+         Source.cpp
+         Selection sort.cpp
+     1>e:\my programms\1st semester pf\bubble sort\bubble sort\selection sort.cpp(20): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>e:\my programms\1st semester pf\bubble sort\bubble sort\selection sort.cpp(6): warning C4101: 'min' : unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\My Programms\1st semester PF\bubble sort\Debug\bubble sort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\My Programms\1st semester PF\bubble sort\Debug\bubble sort.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\My Programms\1st semester PF\bubble sort\Debug\bubble sort.lib" /MACHINE:X86 "Debug\Selection sort.obj"
+         Debug\Source.obj
+         Debug\Source1.obj
+         bubble sort.vcxproj -> E:\My Programms\1st semester PF\bubble sort\Debug\bubble sort.exe
+     1>Done Building Project "E:\My Programms\1st semester PF\bubble sort\bubble sort\bubble sort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.47
